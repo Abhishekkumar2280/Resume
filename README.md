@@ -16,4 +16,3 @@ It presents professional and academic details in a clean, simple, and organized 
 
 ## Purpose
 This project is created to practice HTML structure and layout design, and to build a basic online resume that can be hosted using GitHub Pages.
-
